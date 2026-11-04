@@ -1,0 +1,25 @@
+PromotionID,PromotionName,PromotionType,DiscountPct
+1,No Promotion,No Promotion,0.0
+2,Retail Promo 01,Price Discount,0.2
+3,Retail Promo 02,Bundle,0.05
+4,Retail Promo 03,Loyalty,0.05
+5,Retail Promo 04,Clearance,0.08
+6,Retail Promo 05,Seasonal,0.1
+7,Retail Promo 06,Price Discount,0.1
+8,Retail Promo 07,Bundle,0.08
+9,Retail Promo 08,Loyalty,0.25
+10,Retail Promo 09,Clearance,0.2
+11,Retail Promo 10,Seasonal,0.25
+12,Retail Promo 11,Price Discount,0.2
+13,Retail Promo 12,Bundle,0.2
+14,Retail Promo 13,Loyalty,0.25
+15,Retail Promo 14,Clearance,0.12
+16,Retail Promo 15,Seasonal,0.2
+17,Retail Promo 16,Price Discount,0.08
+18,Retail Promo 17,Bundle,0.2
+19,Retail Promo 18,Loyalty,0.25
+20,Retail Promo 19,Clearance,0.2
+21,Retail Promo 20,Seasonal,0.12
+22,Retail Promo 21,Price Discount,0.25
+23,Retail Promo 22,Bundle,0.15
+24,Retail Promo 23,Loyalty,0.25

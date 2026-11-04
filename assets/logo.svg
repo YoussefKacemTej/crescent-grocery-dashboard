@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="40" viewBox="0 0 220 40" fill="none">
+  <rect width="40" height="40" rx="11" fill="#0F5E4D"/>
+  <path d="M29 23.5A10 10 0 1 1 16.5 11a8 8 0 0 0 12.5 12.5z" fill="#fff"/>
+  <circle cx="27" cy="13" r="2" fill="#F4D9A4"/>
+  <text x="50" y="26" font-family="Inter, -apple-system, Segoe UI, Roboto, sans-serif" font-size="17" font-weight="800" fill="#2F8F83">Crescent Grocery</text>
+</svg>

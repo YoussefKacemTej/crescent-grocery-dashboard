@@ -1,0 +1,53 @@
+[client]
+toolbarMode = "viewer"   # keeps Settings -> theme switcher (light / dark / system)
+
+[browser]
+gatherUsageStats = false
+
+# ---------------------------------------------------------------- shared theme
+[theme]
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap, sans-serif"
+headingFontWeights = [800, 700, 700, 700, 600, 600]
+baseRadius = "0.75rem"
+buttonRadius = "0.6rem"
+showWidgetBorder = true
+
+# ---------------------------------------------------------------- light (default)
+[theme.light]
+primaryColor = "#0F5E4D"
+backgroundColor = "#F4F6F2"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#14231F"
+borderColor = "#E3E8E1"
+dataframeBorderColor = "#E3E8E1"
+dataframeHeaderBackgroundColor = "#F4F6F2"
+linkColor = "#0F5E4D"
+greenColor = "#0F7A57"
+redColor = "#D1495B"
+orangeColor = "#E3A02F"
+chartCategoricalColors = ["#0F5E4D", "#E3A02F", "#2F8F83", "#D1495B", "#6C7A89", "#8FBFA8", "#B07D2B", "#3E5C76"]
+
+[theme.light.sidebar]
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F4F6F2"
+borderColor = "#E3E8E1"
+
+# ---------------------------------------------------------------- dark
+[theme.dark]
+primaryColor = "#3FBF98"
+backgroundColor = "#0C1513"
+secondaryBackgroundColor = "#14211E"
+textColor = "#E6EEEA"
+borderColor = "#24342F"
+dataframeBorderColor = "#24342F"
+dataframeHeaderBackgroundColor = "#14211E"
+linkColor = "#3FBF98"
+greenColor = "#3FBF98"
+redColor = "#F06D7E"
+orangeColor = "#F0B44C"
+chartCategoricalColors = ["#3FBF98", "#F0B44C", "#5FB3A8", "#F06D7E", "#9AA8B6", "#A9D6C2", "#D29A45", "#7FA3C4"]
+
+[theme.dark.sidebar]
+backgroundColor = "#101B18"
+secondaryBackgroundColor = "#0C1513"
+borderColor = "#24342F"

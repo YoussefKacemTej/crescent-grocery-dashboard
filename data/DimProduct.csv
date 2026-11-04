@@ -1,0 +1,501 @@
+ProductID,ProductName,CategoryName,BrandType,UnitCostSAR,BaseUnitPriceSAR,ShelfLifeDays,SupplierID
+1,Grocery SKU 00001,Fresh Produce,Private Label,22.81,37.14,21,1
+2,Grocery SKU 00002,Dairy,Private Label,31.66,41.19,21,2
+3,Grocery SKU 00003,Bakery,Private Label,58.99,89.71,7,3
+4,Grocery SKU 00004,Meat & Seafood,Private Label,49.05,69.24,3,4
+5,Grocery SKU 00005,Frozen Food,National Brand,46.11,71.57,365,5
+6,Grocery SKU 00006,Packaged Grocery,National Brand,18.77,33.85,180,6
+7,Grocery SKU 00007,Beverages,Private Label,27.25,39.46,90,7
+8,Grocery SKU 00008,Household,National Brand,64.19,81.64,90,8
+9,Grocery SKU 00009,Health & Beauty,National Brand,20.53,32.81,180,9
+10,Grocery SKU 00010,Baby Care,National Brand,40.21,54.67,365,10
+11,Grocery SKU 00011,Snacks,National Brand,49.66,91.41,180,11
+12,Grocery SKU 00012,Ready Meals,National Brand,57.44,84.35,14,12
+13,Grocery SKU 00013,Fresh Produce,Private Label,32.01,60.4,21,13
+14,Grocery SKU 00014,Dairy,Private Label,42.11,52.61,14,14
+15,Grocery SKU 00015,Bakery,Private Label,11.26,17.1,14,15
+16,Grocery SKU 00016,Meat & Seafood,National Brand,26.44,45.17,7,16
+17,Grocery SKU 00017,Frozen Food,National Brand,7.49,11.26,365,17
+18,Grocery SKU 00018,Packaged Grocery,Private Label,33.55,62.66,90,18
+19,Grocery SKU 00019,Beverages,National Brand,11.14,19.69,730,19
+20,Grocery SKU 00020,Household,Private Label,21.17,32.61,365,20
+21,Grocery SKU 00021,Health & Beauty,Private Label,54.52,69.53,365,21
+22,Grocery SKU 00022,Baby Care,Private Label,18.47,30.64,730,22
+23,Grocery SKU 00023,Snacks,National Brand,46.99,82.37,180,23
+24,Grocery SKU 00024,Ready Meals,National Brand,43.57,71.14,14,24
+25,Grocery SKU 00025,Fresh Produce,National Brand,57.92,98.62,3,25
+26,Grocery SKU 00026,Dairy,Private Label,32.34,56.05,14,26
+27,Grocery SKU 00027,Bakery,Private Label,11.65,18.93,7,27
+28,Grocery SKU 00028,Meat & Seafood,National Brand,44.17,54.04,7,28
+29,Grocery SKU 00029,Frozen Food,National Brand,29.79,41.82,180,29
+30,Grocery SKU 00030,Packaged Grocery,National Brand,50.94,84.71,180,30
+31,Grocery SKU 00031,Beverages,Private Label,17.35,24.27,180,31
+32,Grocery SKU 00032,Household,National Brand,44.24,75.99,180,32
+33,Grocery SKU 00033,Health & Beauty,National Brand,15.76,29.03,365,33
+34,Grocery SKU 00034,Baby Care,National Brand,11.86,20.61,90,34
+35,Grocery SKU 00035,Snacks,National Brand,54.4,95.08,730,35
+36,Grocery SKU 00036,Ready Meals,National Brand,20.36,32.91,3,36
+37,Grocery SKU 00037,Fresh Produce,National Brand,53.51,94.31,7,37
+38,Grocery SKU 00038,Dairy,National Brand,35.83,49.68,21,38
+39,Grocery SKU 00039,Bakery,National Brand,28.63,35.98,14,39
+40,Grocery SKU 00040,Meat & Seafood,Private Label,10.65,17.92,14,40
+41,Grocery SKU 00041,Frozen Food,Private Label,62.92,91.59,90,1
+42,Grocery SKU 00042,Packaged Grocery,National Brand,56.89,83.28,90,2
+43,Grocery SKU 00043,Beverages,Private Label,40.93,59.4,365,3
+44,Grocery SKU 00044,Household,National Brand,21.32,25.26,365,4
+45,Grocery SKU 00045,Health & Beauty,National Brand,29.1,44.35,90,5
+46,Grocery SKU 00046,Baby Care,Private Label,5.66,10.29,730,6
+47,Grocery SKU 00047,Snacks,National Brand,59.89,81.19,365,7
+48,Grocery SKU 00048,Ready Meals,Private Label,56.86,94.49,21,8
+49,Grocery SKU 00049,Fresh Produce,National Brand,32.83,50.95,21,9
+50,Grocery SKU 00050,Dairy,Private Label,2.71,4.7,3,10
+51,Grocery SKU 00051,Bakery,National Brand,40.35,55.29,21,11
+52,Grocery SKU 00052,Meat & Seafood,Private Label,55.77,91.92,14,12
+53,Grocery SKU 00053,Frozen Food,National Brand,45.14,64.97,365,13
+54,Grocery SKU 00054,Packaged Grocery,National Brand,48.8,77.24,365,14
+55,Grocery SKU 00055,Beverages,National Brand,38.7,63.09,730,15
+56,Grocery SKU 00056,Household,National Brand,7.45,13.1,90,16
+57,Grocery SKU 00057,Health & Beauty,National Brand,48.52,71.3,90,17
+58,Grocery SKU 00058,Baby Care,Private Label,26.97,36.83,365,18
+59,Grocery SKU 00059,Snacks,Private Label,13.64,20.14,180,19
+60,Grocery SKU 00060,Ready Meals,Private Label,22.54,32.69,7,20
+61,Grocery SKU 00061,Fresh Produce,National Brand,59.92,96.25,7,21
+62,Grocery SKU 00062,Dairy,National Brand,53.55,93.32,3,22
+63,Grocery SKU 00063,Bakery,Private Label,14.9,25.26,14,23
+64,Grocery SKU 00064,Meat & Seafood,National Brand,17.07,21.48,21,24
+65,Grocery SKU 00065,Frozen Food,National Brand,30.23,54.16,90,25
+66,Grocery SKU 00066,Packaged Grocery,National Brand,37.5,51.72,730,26
+67,Grocery SKU 00067,Beverages,National Brand,40.78,58.01,730,27
+68,Grocery SKU 00068,Household,National Brand,9.11,12.43,730,28
+69,Grocery SKU 00069,Health & Beauty,Private Label,11.87,22.42,90,29
+70,Grocery SKU 00070,Baby Care,Private Label,38.41,51.15,180,30
+71,Grocery SKU 00071,Snacks,Private Label,32.2,52.99,90,31
+72,Grocery SKU 00072,Ready Meals,Private Label,61.32,86.97,7,32
+73,Grocery SKU 00073,Fresh Produce,Private Label,11.02,16.51,7,33
+74,Grocery SKU 00074,Dairy,Private Label,15.97,21.95,21,34
+75,Grocery SKU 00075,Bakery,Private Label,31.58,38.04,7,35
+76,Grocery SKU 00076,Meat & Seafood,National Brand,36.24,68.27,7,36
+77,Grocery SKU 00077,Frozen Food,National Brand,59.13,91.85,730,37
+78,Grocery SKU 00078,Packaged Grocery,Private Label,8.03,12.34,90,38
+79,Grocery SKU 00079,Beverages,National Brand,8.95,15.26,180,39
+80,Grocery SKU 00080,Household,National Brand,49.19,84.53,730,40
+81,Grocery SKU 00081,Health & Beauty,Private Label,10.81,19.67,180,1
+82,Grocery SKU 00082,Baby Care,Private Label,32.83,55.62,365,2
+83,Grocery SKU 00083,Snacks,National Brand,54.36,93.46,365,3
+84,Grocery SKU 00084,Ready Meals,Private Label,27.4,43.98,3,4
+85,Grocery SKU 00085,Fresh Produce,National Brand,44.54,57.26,21,5
+86,Grocery SKU 00086,Dairy,National Brand,3.65,5.09,3,6
+87,Grocery SKU 00087,Bakery,Private Label,44.81,67.4,21,7
+88,Grocery SKU 00088,Meat & Seafood,National Brand,31.46,56.9,3,8
+89,Grocery SKU 00089,Frozen Food,National Brand,48.84,59.28,365,9
+90,Grocery SKU 00090,Packaged Grocery,Private Label,10.04,13.54,180,10
+91,Grocery SKU 00091,Beverages,Private Label,15.5,28.85,730,11
+92,Grocery SKU 00092,Household,National Brand,30.72,41.44,365,12
+93,Grocery SKU 00093,Health & Beauty,Private Label,22.59,41.71,90,13
+94,Grocery SKU 00094,Baby Care,National Brand,57.25,87.65,730,14
+95,Grocery SKU 00095,Snacks,National Brand,9.88,13.58,180,15
+96,Grocery SKU 00096,Ready Meals,National Brand,6.1,8.13,21,16
+97,Grocery SKU 00097,Fresh Produce,National Brand,51.36,80.42,14,17
+98,Grocery SKU 00098,Dairy,Private Label,31.54,58.61,3,18
+99,Grocery SKU 00099,Bakery,Private Label,54.29,72.78,7,19
+100,Grocery SKU 00100,Meat & Seafood,National Brand,26.96,34.32,14,20
+101,Grocery SKU 00101,Frozen Food,National Brand,2.31,3.62,730,21
+102,Grocery SKU 00102,Packaged Grocery,National Brand,52.25,91.97,180,22
+103,Grocery SKU 00103,Beverages,Private Label,43.21,65.48,730,23
+104,Grocery SKU 00104,Household,Private Label,21.29,25.13,180,24
+105,Grocery SKU 00105,Health & Beauty,National Brand,50.14,84.32,730,25
+106,Grocery SKU 00106,Baby Care,National Brand,18.24,30.01,180,26
+107,Grocery SKU 00107,Snacks,National Brand,55.62,78.48,180,27
+108,Grocery SKU 00108,Ready Meals,Private Label,19.31,30.39,7,28
+109,Grocery SKU 00109,Fresh Produce,National Brand,13.57,23.3,14,29
+110,Grocery SKU 00110,Dairy,Private Label,48.59,71.2,7,30
+111,Grocery SKU 00111,Bakery,Private Label,57.68,108.11,3,31
+112,Grocery SKU 00112,Meat & Seafood,Private Label,55.53,99.76,3,32
+113,Grocery SKU 00113,Frozen Food,National Brand,26.57,34.95,365,33
+114,Grocery SKU 00114,Packaged Grocery,National Brand,35.88,67.5,180,34
+115,Grocery SKU 00115,Beverages,National Brand,30.04,39.85,180,35
+116,Grocery SKU 00116,Household,National Brand,27.35,43.44,180,36
+117,Grocery SKU 00117,Health & Beauty,Private Label,37.91,50.42,365,37
+118,Grocery SKU 00118,Baby Care,National Brand,25.61,45.12,90,38
+119,Grocery SKU 00119,Snacks,Private Label,6.61,8.26,90,39
+120,Grocery SKU 00120,Ready Meals,National Brand,31.5,51.36,3,40
+121,Grocery SKU 00121,Fresh Produce,National Brand,20.01,35.71,14,1
+122,Grocery SKU 00122,Dairy,National Brand,13.74,24.74,14,2
+123,Grocery SKU 00123,Bakery,Private Label,54.13,102.85,21,3
+124,Grocery SKU 00124,Meat & Seafood,National Brand,3.08,5.4,14,4
+125,Grocery SKU 00125,Frozen Food,National Brand,44.36,60.75,365,5
+126,Grocery SKU 00126,Packaged Grocery,National Brand,62.38,106.36,180,6
+127,Grocery SKU 00127,Beverages,National Brand,63.22,77.35,365,7
+128,Grocery SKU 00128,Household,Private Label,59.33,74.21,90,8
+129,Grocery SKU 00129,Health & Beauty,National Brand,56.68,97.4,730,9
+130,Grocery SKU 00130,Baby Care,National Brand,20.0,29.0,730,10
+131,Grocery SKU 00131,Snacks,Private Label,53.12,99.23,180,11
+132,Grocery SKU 00132,Ready Meals,Private Label,46.95,64.74,3,12
+133,Grocery SKU 00133,Fresh Produce,Private Label,35.07,51.7,7,13
+134,Grocery SKU 00134,Dairy,National Brand,25.74,41.16,21,14
+135,Grocery SKU 00135,Bakery,National Brand,49.54,63.67,14,15
+136,Grocery SKU 00136,Meat & Seafood,National Brand,16.51,28.13,7,16
+137,Grocery SKU 00137,Frozen Food,National Brand,8.9,13.66,180,17
+138,Grocery SKU 00138,Packaged Grocery,National Brand,57.82,86.46,90,18
+139,Grocery SKU 00139,Beverages,Private Label,51.61,68.77,365,19
+140,Grocery SKU 00140,Household,National Brand,36.48,47.1,180,20
+141,Grocery SKU 00141,Health & Beauty,National Brand,33.18,58.04,180,21
+142,Grocery SKU 00142,Baby Care,National Brand,35.84,47.13,365,22
+143,Grocery SKU 00143,Snacks,Private Label,34.8,60.49,180,23
+144,Grocery SKU 00144,Ready Meals,Private Label,33.16,54.53,3,24
+145,Grocery SKU 00145,Fresh Produce,National Brand,50.45,65.91,21,25
+146,Grocery SKU 00146,Dairy,Private Label,60.46,106.85,3,26
+147,Grocery SKU 00147,Bakery,National Brand,63.85,83.91,3,27
+148,Grocery SKU 00148,Meat & Seafood,National Brand,39.46,51.44,7,28
+149,Grocery SKU 00149,Frozen Food,National Brand,22.25,41.73,730,29
+150,Grocery SKU 00150,Packaged Grocery,Private Label,62.03,102.87,365,30
+151,Grocery SKU 00151,Beverages,Private Label,29.97,46.19,365,31
+152,Grocery SKU 00152,Household,Private Label,60.58,73.29,90,32
+153,Grocery SKU 00153,Health & Beauty,Private Label,50.27,81.83,180,33
+154,Grocery SKU 00154,Baby Care,National Brand,32.78,50.03,730,34
+155,Grocery SKU 00155,Snacks,National Brand,25.05,31.66,365,35
+156,Grocery SKU 00156,Ready Meals,National Brand,36.65,66.27,21,36
+157,Grocery SKU 00157,Fresh Produce,National Brand,18.68,34.22,7,37
+158,Grocery SKU 00158,Dairy,National Brand,63.35,93.3,3,38
+159,Grocery SKU 00159,Bakery,Private Label,49.6,68.08,14,39
+160,Grocery SKU 00160,Meat & Seafood,National Brand,8.32,15.52,14,40
+161,Grocery SKU 00161,Frozen Food,National Brand,32.19,57.65,90,1
+162,Grocery SKU 00162,Packaged Grocery,National Brand,47.54,68.89,90,2
+163,Grocery SKU 00163,Beverages,National Brand,6.64,8.1,365,3
+164,Grocery SKU 00164,Household,National Brand,31.21,44.46,180,4
+165,Grocery SKU 00165,Health & Beauty,Private Label,10.62,17.47,730,5
+166,Grocery SKU 00166,Baby Care,Private Label,15.12,28.43,730,6
+167,Grocery SKU 00167,Snacks,National Brand,58.27,85.64,180,7
+168,Grocery SKU 00168,Ready Meals,Private Label,20.24,28.34,21,8
+169,Grocery SKU 00169,Fresh Produce,National Brand,47.04,72.0,21,9
+170,Grocery SKU 00170,Dairy,Private Label,23.7,33.49,7,10
+171,Grocery SKU 00171,Bakery,National Brand,24.49,38.73,7,11
+172,Grocery SKU 00172,Meat & Seafood,National Brand,61.52,85.33,21,12
+173,Grocery SKU 00173,Frozen Food,National Brand,49.23,78.09,730,13
+174,Grocery SKU 00174,Packaged Grocery,National Brand,31.97,55.5,90,14
+175,Grocery SKU 00175,Beverages,Private Label,62.18,102.61,365,15
+176,Grocery SKU 00176,Household,Private Label,56.26,73.23,90,16
+177,Grocery SKU 00177,Health & Beauty,National Brand,20.53,38.14,180,17
+178,Grocery SKU 00178,Baby Care,Private Label,24.97,45.04,180,18
+179,Grocery SKU 00179,Snacks,National Brand,21.39,34.24,730,19
+180,Grocery SKU 00180,Ready Meals,Private Label,31.08,45.87,7,20
+181,Grocery SKU 00181,Fresh Produce,National Brand,28.79,35.14,21,21
+182,Grocery SKU 00182,Dairy,National Brand,2.24,3.05,7,22
+183,Grocery SKU 00183,Bakery,National Brand,13.1,23.95,7,23
+184,Grocery SKU 00184,Meat & Seafood,Private Label,40.7,75.43,21,24
+185,Grocery SKU 00185,Frozen Food,Private Label,34.97,45.05,730,25
+186,Grocery SKU 00186,Packaged Grocery,Private Label,35.09,45.7,365,26
+187,Grocery SKU 00187,Beverages,National Brand,13.89,16.86,365,27
+188,Grocery SKU 00188,Household,National Brand,23.82,38.18,365,28
+189,Grocery SKU 00189,Health & Beauty,National Brand,4.64,6.17,180,29
+190,Grocery SKU 00190,Baby Care,Private Label,16.07,25.11,730,30
+191,Grocery SKU 00191,Snacks,National Brand,26.35,38.94,365,31
+192,Grocery SKU 00192,Ready Meals,National Brand,7.54,10.77,3,32
+193,Grocery SKU 00193,Fresh Produce,Private Label,6.04,7.97,14,33
+194,Grocery SKU 00194,Dairy,Private Label,50.92,95.8,21,34
+195,Grocery SKU 00195,Bakery,Private Label,6.23,10.8,21,35
+196,Grocery SKU 00196,Meat & Seafood,National Brand,36.92,51.72,7,36
+197,Grocery SKU 00197,Frozen Food,National Brand,60.71,89.16,180,37
+198,Grocery SKU 00198,Packaged Grocery,National Brand,41.08,61.58,365,38
+199,Grocery SKU 00199,Beverages,National Brand,54.62,93.5,90,39
+200,Grocery SKU 00200,Household,National Brand,60.34,109.69,180,40
+201,Grocery SKU 00201,Health & Beauty,National Brand,2.59,4.36,365,1
+202,Grocery SKU 00202,Baby Care,Private Label,64.7,118.86,365,2
+203,Grocery SKU 00203,Snacks,Private Label,46.94,73.32,365,3
+204,Grocery SKU 00204,Ready Meals,National Brand,15.34,19.83,7,4
+205,Grocery SKU 00205,Fresh Produce,Private Label,59.91,81.91,14,5
+206,Grocery SKU 00206,Dairy,Private Label,59.55,107.21,14,6
+207,Grocery SKU 00207,Bakery,Private Label,36.27,56.4,7,7
+208,Grocery SKU 00208,Meat & Seafood,National Brand,30.33,55.0,14,8
+209,Grocery SKU 00209,Frozen Food,National Brand,5.82,10.4,730,9
+210,Grocery SKU 00210,Packaged Grocery,Private Label,22.61,39.54,730,10
+211,Grocery SKU 00211,Beverages,Private Label,29.9,53.55,365,11
+212,Grocery SKU 00212,Household,Private Label,8.6,12.64,90,12
+213,Grocery SKU 00213,Health & Beauty,National Brand,60.53,73.97,730,13
+214,Grocery SKU 00214,Baby Care,National Brand,33.68,53.41,180,14
+215,Grocery SKU 00215,Snacks,National Brand,60.86,110.65,90,15
+216,Grocery SKU 00216,Ready Meals,Private Label,2.36,3.6,3,16
+217,Grocery SKU 00217,Fresh Produce,National Brand,41.16,69.94,14,17
+218,Grocery SKU 00218,Dairy,National Brand,64.6,76.45,14,18
+219,Grocery SKU 00219,Bakery,National Brand,34.57,57.56,7,19
+220,Grocery SKU 00220,Meat & Seafood,Private Label,5.75,10.26,14,20
+221,Grocery SKU 00221,Frozen Food,National Brand,55.25,87.25,90,21
+222,Grocery SKU 00222,Packaged Grocery,Private Label,58.89,81.95,365,22
+223,Grocery SKU 00223,Beverages,Private Label,27.08,33.2,90,23
+224,Grocery SKU 00224,Household,National Brand,59.27,84.23,180,24
+225,Grocery SKU 00225,Health & Beauty,Private Label,63.23,108.9,90,25
+226,Grocery SKU 00226,Baby Care,Private Label,25.92,39.18,180,26
+227,Grocery SKU 00227,Snacks,National Brand,23.96,35.88,730,27
+228,Grocery SKU 00228,Ready Meals,National Brand,19.2,31.5,21,28
+229,Grocery SKU 00229,Fresh Produce,National Brand,49.63,66.92,3,29
+230,Grocery SKU 00230,Dairy,Private Label,44.42,79.7,3,30
+231,Grocery SKU 00231,Bakery,National Brand,9.26,16.87,14,31
+232,Grocery SKU 00232,Meat & Seafood,National Brand,50.47,89.14,21,32
+233,Grocery SKU 00233,Frozen Food,National Brand,29.84,42.02,90,33
+234,Grocery SKU 00234,Packaged Grocery,Private Label,52.58,88.04,730,34
+235,Grocery SKU 00235,Beverages,Private Label,28.03,35.21,180,35
+236,Grocery SKU 00236,Household,National Brand,14.31,23.69,180,36
+237,Grocery SKU 00237,Health & Beauty,National Brand,16.54,24.9,90,37
+238,Grocery SKU 00238,Baby Care,National Brand,32.36,44.49,730,38
+239,Grocery SKU 00239,Snacks,National Brand,56.77,88.1,365,39
+240,Grocery SKU 00240,Ready Meals,National Brand,45.39,68.32,21,40
+241,Grocery SKU 00241,Fresh Produce,National Brand,43.31,76.98,14,1
+242,Grocery SKU 00242,Dairy,National Brand,55.54,76.14,14,2
+243,Grocery SKU 00243,Bakery,Private Label,12.46,22.52,21,3
+244,Grocery SKU 00244,Meat & Seafood,National Brand,44.7,63.16,21,4
+245,Grocery SKU 00245,Frozen Food,Private Label,22.96,42.86,90,5
+246,Grocery SKU 00246,Packaged Grocery,National Brand,22.65,27.91,90,6
+247,Grocery SKU 00247,Beverages,National Brand,50.37,64.23,365,7
+248,Grocery SKU 00248,Household,National Brand,36.24,66.45,730,8
+249,Grocery SKU 00249,Health & Beauty,National Brand,20.56,34.39,180,9
+250,Grocery SKU 00250,Baby Care,Private Label,64.76,82.28,365,10
+251,Grocery SKU 00251,Snacks,National Brand,20.98,35.0,180,11
+252,Grocery SKU 00252,Ready Meals,National Brand,62.75,86.58,3,12
+253,Grocery SKU 00253,Fresh Produce,Private Label,21.68,33.72,3,13
+254,Grocery SKU 00254,Dairy,Private Label,60.81,88.3,7,14
+255,Grocery SKU 00255,Bakery,Private Label,20.27,30.21,3,15
+256,Grocery SKU 00256,Meat & Seafood,National Brand,41.57,75.12,3,16
+257,Grocery SKU 00257,Frozen Food,Private Label,12.87,16.86,180,17
+258,Grocery SKU 00258,Packaged Grocery,Private Label,36.47,44.23,180,18
+259,Grocery SKU 00259,Beverages,National Brand,20.37,28.61,180,19
+260,Grocery SKU 00260,Household,Private Label,32.58,49.95,90,20
+261,Grocery SKU 00261,Health & Beauty,National Brand,18.7,25.17,730,21
+262,Grocery SKU 00262,Baby Care,National Brand,28.87,38.57,365,22
+263,Grocery SKU 00263,Snacks,Private Label,34.2,57.88,365,23
+264,Grocery SKU 00264,Ready Meals,Private Label,45.92,62.58,7,24
+265,Grocery SKU 00265,Fresh Produce,Private Label,34.61,54.62,7,25
+266,Grocery SKU 00266,Dairy,Private Label,17.6,21.95,21,26
+267,Grocery SKU 00267,Bakery,National Brand,6.15,7.61,7,27
+268,Grocery SKU 00268,Meat & Seafood,Private Label,38.04,68.69,14,28
+269,Grocery SKU 00269,Frozen Food,National Brand,40.77,51.44,365,29
+270,Grocery SKU 00270,Packaged Grocery,Private Label,33.13,60.43,365,30
+271,Grocery SKU 00271,Beverages,Private Label,58.46,97.16,90,31
+272,Grocery SKU 00272,Household,Private Label,34.29,56.71,180,32
+273,Grocery SKU 00273,Health & Beauty,National Brand,24.41,28.86,365,33
+274,Grocery SKU 00274,Baby Care,National Brand,35.5,45.26,730,34
+275,Grocery SKU 00275,Snacks,Private Label,51.58,87.58,730,35
+276,Grocery SKU 00276,Ready Meals,Private Label,9.02,15.4,3,36
+277,Grocery SKU 00277,Fresh Produce,Private Label,2.51,3.3,14,37
+278,Grocery SKU 00278,Dairy,National Brand,7.01,8.99,21,38
+279,Grocery SKU 00279,Bakery,National Brand,36.8,43.87,7,39
+280,Grocery SKU 00280,Meat & Seafood,Private Label,27.68,32.92,7,40
+281,Grocery SKU 00281,Frozen Food,National Brand,32.77,54.73,90,1
+282,Grocery SKU 00282,Packaged Grocery,Private Label,3.61,6.63,730,2
+283,Grocery SKU 00283,Beverages,National Brand,55.48,81.38,180,3
+284,Grocery SKU 00284,Household,National Brand,36.01,59.59,180,4
+285,Grocery SKU 00285,Health & Beauty,National Brand,9.55,16.51,730,5
+286,Grocery SKU 00286,Baby Care,Private Label,7.09,12.5,90,6
+287,Grocery SKU 00287,Snacks,National Brand,60.05,106.71,730,7
+288,Grocery SKU 00288,Ready Meals,Private Label,34.41,52.12,14,8
+289,Grocery SKU 00289,Fresh Produce,Private Label,45.83,78.1,21,9
+290,Grocery SKU 00290,Dairy,Private Label,22.12,36.52,3,10
+291,Grocery SKU 00291,Bakery,National Brand,55.53,85.99,21,11
+292,Grocery SKU 00292,Meat & Seafood,Private Label,36.12,55.08,21,12
+293,Grocery SKU 00293,Frozen Food,Private Label,23.06,36.73,90,13
+294,Grocery SKU 00294,Packaged Grocery,National Brand,15.97,26.38,90,14
+295,Grocery SKU 00295,Beverages,National Brand,46.35,79.27,90,15
+296,Grocery SKU 00296,Household,National Brand,29.57,41.29,180,16
+297,Grocery SKU 00297,Health & Beauty,Private Label,63.49,93.15,90,17
+298,Grocery SKU 00298,Baby Care,National Brand,14.89,25.57,180,18
+299,Grocery SKU 00299,Snacks,Private Label,21.88,32.65,730,19
+300,Grocery SKU 00300,Ready Meals,Private Label,63.62,112.44,7,20
+301,Grocery SKU 00301,Fresh Produce,National Brand,11.38,15.38,14,21
+302,Grocery SKU 00302,Dairy,Private Label,52.44,73.58,21,22
+303,Grocery SKU 00303,Bakery,Private Label,30.89,37.87,14,23
+304,Grocery SKU 00304,Meat & Seafood,Private Label,62.65,85.54,14,24
+305,Grocery SKU 00305,Frozen Food,National Brand,17.93,21.78,365,25
+306,Grocery SKU 00306,Packaged Grocery,Private Label,3.33,4.66,90,26
+307,Grocery SKU 00307,Beverages,National Brand,27.22,51.68,730,27
+308,Grocery SKU 00308,Household,Private Label,5.81,10.91,90,28
+309,Grocery SKU 00309,Health & Beauty,National Brand,42.64,58.29,180,29
+310,Grocery SKU 00310,Baby Care,National Brand,34.38,59.67,365,30
+311,Grocery SKU 00311,Snacks,National Brand,28.38,47.69,180,31
+312,Grocery SKU 00312,Ready Meals,National Brand,18.42,22.65,3,32
+313,Grocery SKU 00313,Fresh Produce,Private Label,7.86,9.91,21,33
+314,Grocery SKU 00314,Dairy,National Brand,27.87,50.02,3,34
+315,Grocery SKU 00315,Bakery,Private Label,33.76,61.09,3,35
+316,Grocery SKU 00316,Meat & Seafood,Private Label,15.66,20.58,7,36
+317,Grocery SKU 00317,Frozen Food,National Brand,40.19,54.22,180,37
+318,Grocery SKU 00318,Packaged Grocery,National Brand,8.82,12.68,365,38
+319,Grocery SKU 00319,Beverages,National Brand,60.22,96.49,365,39
+320,Grocery SKU 00320,Household,National Brand,46.83,58.77,180,40
+321,Grocery SKU 00321,Health & Beauty,National Brand,52.11,72.71,180,1
+322,Grocery SKU 00322,Baby Care,National Brand,54.33,98.73,90,2
+323,Grocery SKU 00323,Snacks,Private Label,49.26,65.63,365,3
+324,Grocery SKU 00324,Ready Meals,National Brand,38.66,50.77,3,4
+325,Grocery SKU 00325,Fresh Produce,Private Label,28.73,43.89,7,5
+326,Grocery SKU 00326,Dairy,National Brand,14.59,19.24,21,6
+327,Grocery SKU 00327,Bakery,National Brand,46.37,84.59,14,7
+328,Grocery SKU 00328,Meat & Seafood,National Brand,44.45,72.57,21,8
+329,Grocery SKU 00329,Frozen Food,National Brand,19.53,23.51,180,9
+330,Grocery SKU 00330,Packaged Grocery,National Brand,33.36,45.47,90,10
+331,Grocery SKU 00331,Beverages,National Brand,48.13,70.18,365,11
+332,Grocery SKU 00332,Household,National Brand,34.08,49.67,730,12
+333,Grocery SKU 00333,Health & Beauty,National Brand,57.89,102.14,365,13
+334,Grocery SKU 00334,Baby Care,National Brand,31.87,46.85,180,14
+335,Grocery SKU 00335,Snacks,Private Label,41.28,72.78,365,15
+336,Grocery SKU 00336,Ready Meals,National Brand,58.13,70.56,14,16
+337,Grocery SKU 00337,Fresh Produce,National Brand,22.05,29.74,3,17
+338,Grocery SKU 00338,Dairy,National Brand,43.03,76.98,7,18
+339,Grocery SKU 00339,Bakery,Private Label,8.66,10.3,21,19
+340,Grocery SKU 00340,Meat & Seafood,Private Label,54.78,90.33,7,20
+341,Grocery SKU 00341,Frozen Food,Private Label,38.53,72.97,90,21
+342,Grocery SKU 00342,Packaged Grocery,National Brand,11.88,19.49,180,22
+343,Grocery SKU 00343,Beverages,Private Label,31.78,39.73,730,23
+344,Grocery SKU 00344,Household,National Brand,57.57,89.79,90,24
+345,Grocery SKU 00345,Health & Beauty,Private Label,55.85,86.06,365,25
+346,Grocery SKU 00346,Baby Care,Private Label,51.69,86.54,90,26
+347,Grocery SKU 00347,Snacks,National Brand,24.35,39.37,90,27
+348,Grocery SKU 00348,Ready Meals,National Brand,57.5,103.63,21,28
+349,Grocery SKU 00349,Fresh Produce,Private Label,61.23,113.85,3,29
+350,Grocery SKU 00350,Dairy,Private Label,58.46,102.26,3,30
+351,Grocery SKU 00351,Bakery,National Brand,2.95,4.13,7,31
+352,Grocery SKU 00352,Meat & Seafood,National Brand,9.56,13.93,7,32
+353,Grocery SKU 00353,Frozen Food,Private Label,64.08,99.26,180,33
+354,Grocery SKU 00354,Packaged Grocery,National Brand,22.33,31.51,730,34
+355,Grocery SKU 00355,Beverages,Private Label,25.61,41.78,730,35
+356,Grocery SKU 00356,Household,National Brand,58.5,97.84,730,36
+357,Grocery SKU 00357,Health & Beauty,Private Label,9.46,11.29,90,37
+358,Grocery SKU 00358,Baby Care,National Brand,18.06,24.07,90,38
+359,Grocery SKU 00359,Snacks,Private Label,44.73,74.35,90,39
+360,Grocery SKU 00360,Ready Meals,Private Label,7.68,9.99,14,40
+361,Grocery SKU 00361,Fresh Produce,Private Label,53.1,78.01,14,1
+362,Grocery SKU 00362,Dairy,Private Label,37.73,59.32,21,2
+363,Grocery SKU 00363,Bakery,National Brand,22.25,36.4,14,3
+364,Grocery SKU 00364,Meat & Seafood,Private Label,20.85,34.92,7,4
+365,Grocery SKU 00365,Frozen Food,Private Label,22.58,28.83,90,5
+366,Grocery SKU 00366,Packaged Grocery,Private Label,45.79,64.74,90,6
+367,Grocery SKU 00367,Beverages,National Brand,21.97,37.52,730,7
+368,Grocery SKU 00368,Household,Private Label,21.5,35.88,180,8
+369,Grocery SKU 00369,Health & Beauty,National Brand,12.96,16.51,730,9
+370,Grocery SKU 00370,Baby Care,Private Label,7.1,11.86,365,10
+371,Grocery SKU 00371,Snacks,Private Label,21.21,35.18,180,11
+372,Grocery SKU 00372,Ready Meals,National Brand,4.58,7.26,3,12
+373,Grocery SKU 00373,Fresh Produce,Private Label,59.62,107.04,14,13
+374,Grocery SKU 00374,Dairy,Private Label,12.83,16.19,3,14
+375,Grocery SKU 00375,Bakery,National Brand,20.54,32.79,21,15
+376,Grocery SKU 00376,Meat & Seafood,National Brand,39.4,59.22,7,16
+377,Grocery SKU 00377,Frozen Food,National Brand,24.27,38.47,180,17
+378,Grocery SKU 00378,Packaged Grocery,National Brand,13.63,18.73,365,18
+379,Grocery SKU 00379,Beverages,Private Label,61.74,114.52,180,19
+380,Grocery SKU 00380,Household,National Brand,61.68,78.48,365,20
+381,Grocery SKU 00381,Health & Beauty,National Brand,37.5,57.54,90,21
+382,Grocery SKU 00382,Baby Care,National Brand,54.6,75.14,180,22
+383,Grocery SKU 00383,Snacks,National Brand,42.1,54.09,90,23
+384,Grocery SKU 00384,Ready Meals,Private Label,3.8,4.99,14,24
+385,Grocery SKU 00385,Fresh Produce,National Brand,8.58,12.89,7,25
+386,Grocery SKU 00386,Dairy,National Brand,45.01,74.47,3,26
+387,Grocery SKU 00387,Bakery,Private Label,24.43,38.32,7,27
+388,Grocery SKU 00388,Meat & Seafood,Private Label,41.24,60.92,3,28
+389,Grocery SKU 00389,Frozen Food,National Brand,13.26,16.18,180,29
+390,Grocery SKU 00390,Packaged Grocery,National Brand,37.26,68.44,730,30
+391,Grocery SKU 00391,Beverages,National Brand,40.7,54.6,365,31
+392,Grocery SKU 00392,Household,National Brand,6.22,10.09,180,32
+393,Grocery SKU 00393,Health & Beauty,National Brand,38.27,47.67,90,33
+394,Grocery SKU 00394,Baby Care,Private Label,11.53,15.35,365,34
+395,Grocery SKU 00395,Snacks,Private Label,9.85,16.88,365,35
+396,Grocery SKU 00396,Ready Meals,National Brand,3.42,4.75,7,36
+397,Grocery SKU 00397,Fresh Produce,National Brand,62.86,104.99,7,37
+398,Grocery SKU 00398,Dairy,National Brand,53.04,84.33,3,38
+399,Grocery SKU 00399,Bakery,National Brand,22.6,33.24,21,39
+400,Grocery SKU 00400,Meat & Seafood,Private Label,37.05,45.74,14,40
+401,Grocery SKU 00401,Frozen Food,National Brand,17.57,23.54,90,1
+402,Grocery SKU 00402,Packaged Grocery,National Brand,62.93,117.18,90,2
+403,Grocery SKU 00403,Beverages,Private Label,34.93,64.52,180,3
+404,Grocery SKU 00404,Household,National Brand,5.87,8.71,180,4
+405,Grocery SKU 00405,Health & Beauty,National Brand,22.43,36.94,730,5
+406,Grocery SKU 00406,Baby Care,Private Label,13.5,24.04,365,6
+407,Grocery SKU 00407,Snacks,National Brand,35.79,58.48,730,7
+408,Grocery SKU 00408,Ready Meals,Private Label,58.9,110.18,21,8
+409,Grocery SKU 00409,Fresh Produce,National Brand,22.15,30.55,7,9
+410,Grocery SKU 00410,Dairy,National Brand,60.45,85.86,14,10
+411,Grocery SKU 00411,Bakery,National Brand,31.66,56.4,21,11
+412,Grocery SKU 00412,Meat & Seafood,National Brand,57.28,107.02,7,12
+413,Grocery SKU 00413,Frozen Food,Private Label,8.69,14.43,730,13
+414,Grocery SKU 00414,Packaged Grocery,National Brand,21.44,26.84,180,14
+415,Grocery SKU 00415,Beverages,Private Label,26.74,41.12,730,15
+416,Grocery SKU 00416,Household,National Brand,53.81,99.86,365,16
+417,Grocery SKU 00417,Health & Beauty,Private Label,49.72,71.28,180,17
+418,Grocery SKU 00418,Baby Care,Private Label,48.27,82.76,365,18
+419,Grocery SKU 00419,Snacks,National Brand,14.37,20.67,365,19
+420,Grocery SKU 00420,Ready Meals,National Brand,40.51,66.36,21,20
+421,Grocery SKU 00421,Fresh Produce,National Brand,15.48,24.52,7,21
+422,Grocery SKU 00422,Dairy,Private Label,22.44,28.47,21,22
+423,Grocery SKU 00423,Bakery,National Brand,4.78,5.76,14,23
+424,Grocery SKU 00424,Meat & Seafood,Private Label,13.35,19.89,14,24
+425,Grocery SKU 00425,Frozen Food,Private Label,21.3,26.32,180,25
+426,Grocery SKU 00426,Packaged Grocery,Private Label,48.63,70.51,90,26
+427,Grocery SKU 00427,Beverages,Private Label,43.43,64.82,730,27
+428,Grocery SKU 00428,Household,National Brand,15.81,19.44,180,28
+429,Grocery SKU 00429,Health & Beauty,National Brand,10.26,19.42,90,29
+430,Grocery SKU 00430,Baby Care,National Brand,58.6,82.89,90,30
+431,Grocery SKU 00431,Snacks,Private Label,51.1,77.57,365,31
+432,Grocery SKU 00432,Ready Meals,National Brand,39.1,67.8,21,32
+433,Grocery SKU 00433,Fresh Produce,Private Label,31.24,50.16,21,33
+434,Grocery SKU 00434,Dairy,National Brand,43.73,62.61,14,34
+435,Grocery SKU 00435,Bakery,Private Label,55.35,89.87,7,35
+436,Grocery SKU 00436,Meat & Seafood,National Brand,21.8,30.7,21,36
+437,Grocery SKU 00437,Frozen Food,Private Label,47.83,63.72,180,37
+438,Grocery SKU 00438,Packaged Grocery,Private Label,29.8,56.38,90,38
+439,Grocery SKU 00439,Beverages,National Brand,15.59,22.38,365,39
+440,Grocery SKU 00440,Household,National Brand,9.92,13.83,365,40
+441,Grocery SKU 00441,Health & Beauty,Private Label,38.15,53.68,730,1
+442,Grocery SKU 00442,Baby Care,Private Label,8.75,14.03,365,2
+443,Grocery SKU 00443,Snacks,Private Label,28.4,49.25,90,3
+444,Grocery SKU 00444,Ready Meals,Private Label,53.64,101.21,21,4
+445,Grocery SKU 00445,Fresh Produce,National Brand,41.68,75.59,3,5
+446,Grocery SKU 00446,Dairy,Private Label,14.65,20.54,7,6
+447,Grocery SKU 00447,Bakery,National Brand,24.91,44.72,14,7
+448,Grocery SKU 00448,Meat & Seafood,Private Label,63.39,114.05,7,8
+449,Grocery SKU 00449,Frozen Food,National Brand,26.78,32.81,90,9
+450,Grocery SKU 00450,Packaged Grocery,National Brand,8.49,13.61,90,10
+451,Grocery SKU 00451,Beverages,National Brand,21.58,26.31,90,11
+452,Grocery SKU 00452,Household,National Brand,63.56,92.03,90,12
+453,Grocery SKU 00453,Health & Beauty,Private Label,42.57,51.48,90,13
+454,Grocery SKU 00454,Baby Care,Private Label,41.41,76.8,180,14
+455,Grocery SKU 00455,Snacks,Private Label,2.4,3.75,365,15
+456,Grocery SKU 00456,Ready Meals,Private Label,54.76,93.8,3,16
+457,Grocery SKU 00457,Fresh Produce,Private Label,44.0,61.52,3,17
+458,Grocery SKU 00458,Dairy,National Brand,32.79,47.31,7,18
+459,Grocery SKU 00459,Bakery,National Brand,55.07,104.17,7,19
+460,Grocery SKU 00460,Meat & Seafood,Private Label,22.06,32.53,21,20
+461,Grocery SKU 00461,Frozen Food,National Brand,27.49,35.53,365,21
+462,Grocery SKU 00462,Packaged Grocery,National Brand,37.29,65.88,365,22
+463,Grocery SKU 00463,Beverages,National Brand,36.47,60.93,365,23
+464,Grocery SKU 00464,Household,National Brand,48.6,68.75,730,24
+465,Grocery SKU 00465,Health & Beauty,Private Label,33.34,54.32,365,25
+466,Grocery SKU 00466,Baby Care,National Brand,55.32,102.79,365,26
+467,Grocery SKU 00467,Snacks,Private Label,55.23,79.78,365,27
+468,Grocery SKU 00468,Ready Meals,Private Label,23.92,32.72,3,28
+469,Grocery SKU 00469,Fresh Produce,National Brand,3.4,5.02,3,29
+470,Grocery SKU 00470,Dairy,National Brand,44.44,66.33,14,30
+471,Grocery SKU 00471,Bakery,National Brand,63.15,78.88,14,31
+472,Grocery SKU 00472,Meat & Seafood,Private Label,28.91,36.08,14,32
+473,Grocery SKU 00473,Frozen Food,National Brand,13.34,19.48,730,33
+474,Grocery SKU 00474,Packaged Grocery,National Brand,58.35,82.54,730,34
+475,Grocery SKU 00475,Beverages,National Brand,24.79,39.54,90,35
+476,Grocery SKU 00476,Household,Private Label,19.0,24.95,180,36
+477,Grocery SKU 00477,Health & Beauty,National Brand,53.2,91.32,90,37
+478,Grocery SKU 00478,Baby Care,National Brand,23.14,35.36,365,38
+479,Grocery SKU 00479,Snacks,Private Label,11.95,21.39,180,39
+480,Grocery SKU 00480,Ready Meals,National Brand,55.09,76.05,3,40
+481,Grocery SKU 00481,Fresh Produce,National Brand,12.07,20.43,21,1
+482,Grocery SKU 00482,Dairy,Private Label,6.46,8.54,21,2
+483,Grocery SKU 00483,Bakery,National Brand,11.89,22.03,14,3
+484,Grocery SKU 00484,Meat & Seafood,National Brand,2.49,4.41,7,4
+485,Grocery SKU 00485,Frozen Food,Private Label,52.92,95.04,365,5
+486,Grocery SKU 00486,Packaged Grocery,Private Label,43.14,63.44,180,6
+487,Grocery SKU 00487,Beverages,National Brand,45.19,71.97,730,7
+488,Grocery SKU 00488,Household,Private Label,16.98,24.77,90,8
+489,Grocery SKU 00489,Health & Beauty,National Brand,31.92,51.09,180,9
+490,Grocery SKU 00490,Baby Care,Private Label,60.88,114.04,730,10
+491,Grocery SKU 00491,Snacks,Private Label,36.46,57.68,90,11
+492,Grocery SKU 00492,Ready Meals,National Brand,33.7,49.44,3,12
+493,Grocery SKU 00493,Fresh Produce,Private Label,3.14,4.0,7,13
+494,Grocery SKU 00494,Dairy,National Brand,39.5,61.82,7,14
+495,Grocery SKU 00495,Bakery,National Brand,36.22,51.09,14,15
+496,Grocery SKU 00496,Meat & Seafood,Private Label,59.09,111.16,14,16
+497,Grocery SKU 00497,Frozen Food,National Brand,17.31,31.66,365,17
+498,Grocery SKU 00498,Packaged Grocery,National Brand,4.24,5.64,365,18
+499,Grocery SKU 00499,Beverages,National Brand,46.31,81.56,365,19
+500,Grocery SKU 00500,Household,Private Label,35.21,48.08,180,20

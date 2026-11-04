@@ -1,0 +1,16 @@
+StoreID,StoreName,City,RegionName,StoreFormat,OpeningYear,SellingAreaSqm
+1,Crescent Grocery 001,Riyadh,Central,Supermarket,2021,1948
+2,Crescent Grocery 002,Jeddah,Western,Supermarket,2022,3371
+3,Crescent Grocery 003,Dammam,Eastern,Supermarket,2017,3212
+4,Crescent Grocery 004,Makkah,Western,Express,2012,5804
+5,Crescent Grocery 005,Madinah,Western,Express,2019,4216
+6,Crescent Grocery 006,Khobar,Eastern,Supermarket,2020,2554
+7,Crescent Grocery 007,Tabuk,Northern,Express,2016,1700
+8,Crescent Grocery 008,Abha,Southern,Supermarket,2012,3765
+9,Crescent Grocery 009,Buraydah,Central,Supermarket,2020,3089
+10,Crescent Grocery 010,Hail,Central,Hypermarket,2014,1033
+11,Crescent Grocery 011,Jubail,Eastern,Hypermarket,2021,2839
+12,Crescent Grocery 012,Taif,Western,Hypermarket,2022,3281
+13,Crescent Grocery 013,Riyadh,Central,Hypermarket,2016,4309
+14,Crescent Grocery 014,Jeddah,Western,Supermarket,2020,3310
+15,Crescent Grocery 015,Dammam,Eastern,Supermarket,2016,4986
